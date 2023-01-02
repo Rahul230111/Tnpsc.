@@ -1,0 +1,56 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	text-align: center;
+
+
+}
+h2{
+	font-family: oswald, sans-serif;
+	color: purple;
+
+}
+
+h1{
+	margin: 0 auto 0 auto;
+	color: #EB455F;
+		font-family: oswald, sans-serif;
+}
+p{
+	color: #579BB1;
+		font-family: cursive;
+}
+.cloud1{
+	margin-left: 500px;
+}
+.cloud2 {
+	position: absolute;
+
+}
+.top-container{
+	background-color:#CBEDD5 ;
+	padding-top: 50px;
+}
+.youtube{
+	display: inline-block;
+	position: absolute;
+	left: 100px;
+	ma
+}
+
+.instagram{
+	display: inline-block;
+	position: absolute;
+ 	left: 200px;
+}
+.facebook{
+	display: inline-block;
+	position: absolute;
+ 	left: 330px;
+}
+.telegram{
+	display: inline-block;
+	position: absolute;
+ 	left: 450px;
+ 	margin-right: 1000px;
+}
